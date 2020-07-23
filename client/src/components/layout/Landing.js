@@ -8,8 +8,8 @@ class Landing extends Component {
         <div className="row">
           <div className="col s12 center-align">
             <h4>
-              <b>Build</b> a url shortener app with login authentication using
-              <span style={{ fontFamily: "monospace" }}>MERN</span> Stack
+              <b>Build</b> a url shortener app with login authentication using{" "} 
+              <span style={{ fontFamily: "monospace" }}> MERN</span> Stack
             </h4>
             <p className="flow-text grey-text text-darken-1">
               Create a (minimal) full-stack app with user authentication via

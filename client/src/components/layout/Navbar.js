@@ -15,8 +15,8 @@ class Navbar extends Component {
               className="col s5 brand-logo center black-text"
               >
                 <i className="material-icons">code</i>
-                URL Shortener using MERN Stack Development
-              </Link>
+                URL Shortener using MERN Stack
+              </Link>  
           </div>
         </nav>
       </div>
